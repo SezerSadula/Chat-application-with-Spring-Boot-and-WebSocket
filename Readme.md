@@ -1,0 +1,1 @@
+Chat application with Spring Boot and WebSocket. 
